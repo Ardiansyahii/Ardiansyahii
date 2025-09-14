@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Ardianyah 
 
-<!--
-**Ardiansyahii/Ardiansyahii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 📊 Turning Data into Insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🔭 Currently working on **Data Analysis & Visualization Projects**  
+- 🌱 Learning **SQL, Python (Pandas), Power BI, and Tableau**  
+- 👯 Looking to collaborate on **open-source data projects & analytics case studies**  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:youremail@example.com)  
+- ⚡ Fun fact: I love exploring how **data can tell stories** and help people make better decisions.  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Languages**: Python, SQL  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Visualization**: Power BI, Tableau, Excel  
+- **Others**: Git, Jupyter Notebook, Google Colab  
+
+---
+
+## 📂 Featured Projects  
+🔹 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)  
+*Interactive dashboard analyzing sales trends & top products.*  
+
+🔹 [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)  
+*Used clustering techniques to identify customer groups for targeted marketing.*  
+
+🔹 [COVID-19 Data Tracker](https://github.com/yourusername/covid19-tracker)  
+*Analyzed COVID-19 data and visualized global trends using Python.*  
+
+---
+
+## 📊 GitHub Stats  
+  
+
+---
+
+✨ *“Data is the new oil, but insights are the new gold.”* ✨

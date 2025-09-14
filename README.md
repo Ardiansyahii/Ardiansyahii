@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ardianyah 
+# Hi there  I'm Ardiansyah  
 
 🎯 **Aspiring Data Analyst** | 📊 Turning Data into Insights  
 
@@ -6,9 +6,9 @@
 
 ## 🌟 About Me  
 - 🔭 Currently working on **Data Analysis & Visualization Projects**  
-- 🌱 Learning **SQL, Python (Pandas), Power BI, and Tableau**  
+- 🌱 Learning **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, and Tableau**  
 - 👯 Looking to collaborate on **open-source data projects & analytics case studies**  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:youremail@example.com)  
+- 📫 Reach me at:  
 - ⚡ Fun fact: I love exploring how **data can tell stories** and help people make better decisions.  
 
 ---
@@ -23,7 +23,7 @@
 
 ## 📂 Featured Projects  
 🔹 [Sales Performance Dashboard](https://github.com/yourusername/sales-dashboard)  
-*Interactive dashboard analyzing sales trends & top products.*  
+*InteractArdiansyah dashboard analyzing sales trends & top products.*  
 
 🔹 [Customer Segmentation Analysis](https://github.com/yourusername/customer-segmentation)  
 *Used clustering techniques to identify customer groups for targeted marketing.*  
